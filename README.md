@@ -2,9 +2,8 @@
 
 I am a Principal Researcher at the [Multimedia Analysis Group](https://labs-repos.iit.demokritos.gr/MagCIL/) of the [Institute of Informatics and Telecommunication<](http://www.iit.demokritos.gr/) of the [National Center for Scientific Research "Demokritos"](http://demokritos.gr/). You can find more info about me at [my web page](http://tyiannak.github.io)
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=tyiannak&show_icons=true&theme=transparent)
-
 <!--
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=tyiannak&show_icons=true&theme=transparent)
 **tyiannak/tyiannak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
